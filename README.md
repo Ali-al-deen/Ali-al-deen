@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/lxjWJK0Ny3AAAAAM/thofinn.gif" alt="Thorfinn GIF" width="400" style="border-radius: 15px;">
+  <img src="https://media.tenor.com/lxjWJK0Ny3AAAAAM/thofinn.gif" alt="Thorfinn GIF" width="700" style="border-radius: 15px;">
 </div>
 
 <br>
