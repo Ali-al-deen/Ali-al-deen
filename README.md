@@ -3,7 +3,9 @@
 I am Ali Al-Din Sherif Ibrahim, an undergraduate Computer Science student joining the **School of Computational Sciences and Artificial Intelligence at Zewail City**. I am a tech enthusiast with a strong passion for software development, low-level hardware design, and artificial intelligence. Always open to collaborating on projects and innovative ideas! Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ali-sherif-982958417)](https://www.linkedin.com/in/ali-sherif-982958417)
-[![Gmail Badge](https://img.shields.io/badge/-ali.aldin.sherif.ibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.aldin.sherif.ibrahim@gmail.com)](mailto:ali.aldin.sherif.ibrahim@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/share/1HDeB4awgn/)](https://www.facebook.com/share/1HDeB4awgn/)
+[![Instagram Badge](https://img.shields.io/badge/-_alisheriff_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_alisheriff_?igsh=MWYzbW0zOTk0c2hiNg==)](https://www.instagram.com/_alisheriff_?igsh=MWYzbW0zOTk0c2hiNg==)
+[![Gmail Badge](https://img.shields.io/badge/-alyalddensherif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyalddensherif@gmail.com)](mailto:alyalddensherif@gmail.com)
 
 ## ⚡ Technologies & Skills
 
@@ -40,6 +42,7 @@ When I'm not writing code or debugging hardware circuits, you can find me:
 * 🏊‍♂️ **Swimming:** Enjoying a good swim to stay active and refresh my mind.
 * 🥋 **Martial Arts:** Practicing martial arts to maintain discipline and physical fitness.
 * ♟️ **Chess:** Playing chess to continuously challenge and sharpen my strategic thinking.
+* 🧪 **Chemistry:** Diving into the fascinating logic of Chemistry, from electrochemistry to hydrocarbons.
 
 ## 📊 GitHub Stats
 
