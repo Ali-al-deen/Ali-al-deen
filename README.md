@@ -13,6 +13,11 @@ I am Ali Al-Din Sherif Ibrahim, an undergraduate Computer Science student joinin
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+### 🌍 Languages
+* 🇪🇬 **Arabic:** Native
+* 🇬🇧 **English:** Fluent
+* 🇩🇪 **German:** Beginner (Still learning!)
+
 ### 🚀 What I do
 * **Software Development:** Building robust applications using Object-Oriented Programming (OOP) principles, such as my recent **Smart Hospital Management System**.
 * **Computer Architecture & Hardware:** Working with digital logic, Logisim simulations, and practical assembly of computer architectures like the SAP-1.
@@ -29,13 +34,12 @@ I am Ali Al-Din Sherif Ibrahim, an undergraduate Computer Science student joinin
 ### 🌱 I'm currently learning & exploring
 * Preparing for the rigorous academic environment at Zewail City by solidifying my foundation in computer architecture.
 * Applying advanced mathematical concepts (Linear Algebra, Calculus, and Boolean algebra) to solve complex programmatic problems.
-* Exploring financial market analysis and testing trading strategies.
 
 ### ⚡ Beyond the Terminal
 When I'm not writing code or debugging hardware circuits, you can find me:
-* 📈 Analyzing market charts and testing strategies on TradingView.
-* 🎮 Exploring the world of Teyvat in Genshin Impact.
-* 🧪 Diving into the fascinating logic of Chemistry, from electrochemistry to hydrocarbons.
+* 🏊‍♂️ **Swimming:** Enjoying a good swim to stay active and refresh my mind.
+* 🥋 **Martial Arts:** Practicing martial arts to maintain discipline and physical fitness.
+* ♟️ **Chess:** Playing chess to continuously challenge and sharpen my strategic thinking.
 
 ## 📊 GitHub Stats
 
