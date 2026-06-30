@@ -2,8 +2,8 @@
 
 I am Ali Al-Din Sherif Ibrahim, an undergraduate Computer Science student joining the **School of Computational Sciences and Artificial Intelligence at Zewail City**. I am a tech enthusiast with a strong passion for software development, low-level hardware design, and artificial intelligence. Always open to collaborating on projects and innovative ideas! Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN/)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Gmail Badge](https://img.shields.io/badge/-YOUR_EMAIL@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOUR_EMAIL@gmail.com)](mailto:YOUR_EMAIL@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ali-sherif-982958417)](https://www.linkedin.com/in/ali-sherif-982958417)
+[![Gmail Badge](https://img.shields.io/badge/-ali.aldin.sherif.ibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.aldin.sherif.ibrahim@gmail.com)](mailto:ali.aldin.sherif.ibrahim@gmail.com)
 
 ## ⚡ Technologies & Skills
 
@@ -14,11 +14,31 @@ I am Ali Al-Din Sherif Ibrahim, an undergraduate Computer Science student joinin
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### 🚀 What I do
-*   **Software Development:** Building robust applications using Object-Oriented Programming (OOP) principles, such as my recent **Smart Hospital Management System**.
-*   **Computer Architecture & Hardware:** Working with digital logic, Logisim simulations, and practical assembly of computer architectures like the SAP-1.
-*   **AI & Data:** Keen interest in AI annotation, data evaluation, and backend logic.
-*   **Applied Mathematics:** Strong foundation in Linear Algebra, Calculus, and Boolean Algebra to support computational logic.
+* **Software Development:** Building robust applications using Object-Oriented Programming (OOP) principles, such as my recent **Smart Hospital Management System**.
+* **Computer Architecture & Hardware:** Working with digital logic, Logisim simulations, and practical assembly of computer architectures like the SAP-1.
+* **AI & Data:** Keen interest in AI annotation, data evaluation, and backend logic.
+* **Applied Mathematics:** Strong foundation in Linear Algebra, Calculus, and Boolean Algebra to support computational logic.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&include_all_commits=true)
+### 📁 Featured Projects
+* **Smart Hospital Management System:** A robust application built with C++ utilizing Object-Oriented Programming (OOP) principles. It features automated appointment scheduling, patient data encryption, and diagnosis assistants.
+* **SAP-1 Computer Architecture:** Hands-on and simulated (Logisim) implementation of the SAP-1 architecture. Involves deep-level troubleshooting of ALU behaviors, integrated circuits (like 74189 RAM), and digital logic design.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+### 💼 Professional Interests
+* **AI Data Annotation:** Passionate about enhancing AI models through accurate data labeling and evaluation, with experience navigating platforms tailored for Arabic-speaking assessors and quality control. 
+
+### 🌱 I'm currently learning & exploring
+* Preparing for the rigorous academic environment at Zewail City by solidifying my foundation in computer architecture.
+* Applying advanced mathematical concepts (Linear Algebra, Calculus, and Boolean algebra) to solve complex programmatic problems.
+* Exploring financial market analysis and testing trading strategies.
+
+### ⚡ Beyond the Terminal
+When I'm not writing code or debugging hardware circuits, you can find me:
+* 📈 Analyzing market charts and testing strategies on TradingView.
+* 🎮 Exploring the world of Teyvat in Genshin Impact.
+* 🧪 Diving into the fascinating logic of Chemistry, from electrochemistry to hydrocarbons.
+
+## 📊 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ali-al-deen&count_private=true&show_icons=true&include_all_commits=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ali-al-deen.Ali-al-deen)
