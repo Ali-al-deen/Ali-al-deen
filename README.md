@@ -1,4 +1,8 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<div align="center">
+  <img src="https://media.tenor.com/lxjWJK0Ny3AAAAAM/thofinn.gif" alt="Thorfinn GIF" width="400" style="border-radius: 15px;">
+</div>
+
+<br>
 
 I am Ali Al-Din Sherif Ibrahim, an undergraduate Computer Science student joining the **School of Computational Sciences and Artificial Intelligence at Zewail City**. I am a tech enthusiast with a strong passion for software development, low-level hardware design, and artificial intelligence. Always open to collaborating on projects and innovative ideas! Feel free to connect with me here:
 
@@ -42,7 +46,6 @@ When I'm not writing code or debugging hardware circuits, you can find me:
 * 🏊‍♂️ **Swimming:** Enjoying a good swim to stay active and refresh my mind.
 * 🥋 **Martial Arts:** Practicing martial arts to maintain discipline and physical fitness.
 * ♟️ **Chess:** Playing chess to continuously challenge and sharpen my strategic thinking.
-* 🧪 **Chemistry:** Diving into the fascinating logic of Chemistry, from electrochemistry to hydrocarbons.
 
 ## 📊 GitHub Stats
 
